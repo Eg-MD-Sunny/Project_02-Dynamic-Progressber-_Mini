@@ -1,5 +1,9 @@
 ## Dynamic Progressber
 
+### Important Link: 
+>> https://cdnjs.com/libraries/font-awesome/5.15.1
+>> https://fonts.google.com/specimen/Roboto+Condensed#standard-styles
+
 ## Usable Commend <br>
 
 >> echo "# Project_02-Dynamic-Progressber-_Mini" >> README.md <br> 
